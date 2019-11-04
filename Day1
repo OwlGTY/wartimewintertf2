@@ -1,0 +1,80 @@
+<head>
+    <link rel="stylesheet" href="css/index.css">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+</head>
+
+<div class="navbar">
+    <ul>
+        <li> <a href="index.html">Day 1</a></a></li>
+        <li> <a href="html/pepe.html"> Day 2</a></li>
+        <li> <a href="html/dancegifs.html"> Day 3</a></li>
+        <li> <a href="html/Bastion.html"> Day 4</a></li>
+        <li> <a href="html/Bastion.html"> Day 5</a></li>
+        <li> <a href="html/Bastion.html"> Day 6</a></li>
+        <li> <a href="html/Bastion.html"> Day 7</a></li>
+    </ul>
+</div>
+
+<div class="navbar">
+    <ul>
+        <li> <a href="index.html"class="selected"> Day 1</a></a></li>
+        <li> <a href="html/pepe.html"> Day 2</a></li>
+        <li> <a href="html/dancegifs.html"> Day 3</a></li>
+        <li> <a href="html/Bastion.html"> Day 4</a></li>
+        <li> <a href="html/Bastion.html"> Day 5</a></li>
+        <li> <a href="html/Bastion.html"> Day 6</a></li>
+        <li> <a href="html/Bastion.html"> Day 7</a></li>
+    </ul>
+</div>
+
+<body>
+    <h1><b>The Winter Wartime Update!</h1></b>
+    <div class="about">
+    <p>TF2's Latest Update, with an entire week's worth of news for you! 
+    Featuring an all new cinematic, 3 soundtracks, weapons, cosmetics, contracts, maps, and more!</p>
+    <img width="25%" src="https://wiki.teamfortress.com/w/images/thumb/8/8f/Sniper.png/250px-Sniper.png?t=20111213024828">
+    </div>
+    
+    <h2>The dust of the Badlands continues to asphyxiate it’s patrons, 
+    as the battle has never been this big before! Featuring an entire week of new content, 
+    the Winter Wartime update hopes to provide the best munitions in your time of fight! 
+    So deploy your shotguns, ready your helmets, and get ready, because this is going to be the biggest TF2 update yet!</h2>
+    <div class="classname">
+    
+    <h2>Seasons Killing!</h2>
+    <p>Down within the depths of a secret gravel deposit safe box, Mann Co. 
+    has found a cache of war-themed wearables for all assassins of any kind. 
+    Whether you be a mentally impaired pyromaniac to a dimwitted second place Russian, these hats are just for you. </p>
+    <img width="25%" src="http://vignette2.wikia.nocookie.net/teamfortress/images/8/8f/Sniper.png/revision/latest?cb=20150127180939">
+    </div>
+
+    <h2>Swim on by to Rushing Currents!<h2>
+    <p1>Where the breeze of gunpowder and shells fly above your head, 
+    the site of a water depot and amusement park has become part of a battlefield, 
+    laid with ship in crates, sea mines, trains, and a pushable that will create new routes at ease. 
+    This payload map is sure to provide unique gameplay and an enjoyable experience using assets provided by the Frontline team.</p>
+    
+    <h2>Community-Created Maps!</h2>
+    <p>We announced the use of war themed maps, and you guys worked your hearts out! 
+    Featuring 10 new maps made by the community, ranging from payload, king of the hill, capture points, and more!</p>
+
+<ul>
+   <li> <a href="html/Bastion.html"> Day 7</a></li>
+   <li> <a href="html/Bastion.html"> Day 7</a></li>
+   <li> <a href="html/Bastion.html"> Day 7</a></li>
+   <li> <a href="html/Bastion.html"> Day 7</a></li>
+   <li> <a href="html/Bastion.html"> Day 7</a></li>
+   <li> <a href="html/Bastion.html"> Day 7</a></li>
+   <li> <a href="html/Bastion.html"> Day 7</a></li>
+   <li> <a href="html/Bastion.html"> Day 7</a></li>
+   <li> <a href="html/Bastion.html"> Day 7</a></li>
+<ul>
+
+<div style="border-color:black;
+            border-size:4px;
+            border-style:solid;
+            width: 100%;
+            height:10px;">
+</div>
+
+</body>
